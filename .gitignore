@@ -90,3 +90,7 @@ buildNumber.properties
 .classpath
 .settings
 .metadata
+
+.idea/*.iml
+*.iml
+**/*.iml
